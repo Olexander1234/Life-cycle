@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Life-cycle/static/css/main.7acaea2f.css",
+    "main.js": "/Life-cycle/static/js/main.35f26a9b.js",
+    "index.html": "/Life-cycle/index.html",
+    "main.7acaea2f.css.map": "/Life-cycle/static/css/main.7acaea2f.css.map",
+    "main.35f26a9b.js.map": "/Life-cycle/static/js/main.35f26a9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.35f26a9b.js"
+  ]
+}
